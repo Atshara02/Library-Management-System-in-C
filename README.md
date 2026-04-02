@@ -1,2 +1,2 @@
 # Library-Management-System-in-C
-Library Management System in C Programming utilizing 
+Library Management System in C Programming
